@@ -4,5 +4,7 @@
 *.mod.c
 *.symvers
 *.swp
+*.swn
+*.swo
 *.cmd
 .tmp_versions
